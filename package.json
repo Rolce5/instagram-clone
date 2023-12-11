@@ -16,10 +16,11 @@
         "postcss": "^8.4.27",
         "tailwindcss": "^3.3.3",
         "vite": "^4.0.0",
-        "vue": "^3.2.41"
+        "vue": "^3.3.11"
     },
     "dependencies": {
         "vue-material-design-icons": "^5.2.0",
+        "vue-template-compiler": "^2.7.15",
         "vue3-carousel": "^0.3.1"
     }
 }
